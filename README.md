@@ -111,3 +111,5 @@
 <p align="center"> 
   <img width="1280" height="409" src="https://64.media.tumblr.com/0a92e0692e14e88330e16f03949bea3d/affbeca7af1c8ca0-c9/s1280x1920/c423060349b23b295ddb0334d6c7686b57da8456.pnj">
 </p>
+
+If you actually bothered reading everything lmk by whispering "redonkulously silly"
