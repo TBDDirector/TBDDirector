@@ -13,6 +13,8 @@
   <img width="400" src="https://spotify-github-profile.kittinanx.com/api/view?uid=22fi2ddkxx4ksq54pirlce6pi&cover_image=true&theme=novatorem&show_offline=false&background_color=ff1259&interchange=true&bar_color_cover=true&bar_color=ff0059" alt="Border">
 </p>
 ‎
+
+
 <p align="center">
   <img width="900" src="https://64.media.tumblr.com/027a17a4ad709586fe50b24c29871f32/5dfdf8e380a2fee1-e9/s1280x1920/b88932befb0cf201abe7032795efc38a6dd6dcc9.webp" alt="Border">
 </p>
@@ -112,4 +114,9 @@
   <img width="1280" height="409" src="https://64.media.tumblr.com/0a92e0692e14e88330e16f03949bea3d/affbeca7af1c8ca0-c9/s1280x1920/c423060349b23b295ddb0334d6c7686b57da8456.pnj">
 </p>
 
+
+https://github.com/user-attachments/assets/1bc4de37-498f-43cc-aa2b-6bc2254a1469
+
+<p align="center"> 
 If you actually bothered reading everything lmk by whispering "redonkulously silly"
+</p>
